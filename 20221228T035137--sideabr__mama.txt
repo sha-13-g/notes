@@ -1,0 +1,7 @@
+title:      sideabar
+date:       2022-12-28
+tags:       mama
+identifier: 20221228T035137
+---------------------------
+
+Make a sidebar with ma mama picture

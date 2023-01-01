@@ -1,0 +1,6 @@
+#+title:      A org-mode note
+#+date:       [2022-12-31 Sat 23:24]
+#+filetags:   :game:
+#+identifier: 20221231T232446
+
+Some game in the list

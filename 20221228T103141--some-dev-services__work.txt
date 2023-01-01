@@ -1,0 +1,21 @@
+title:      Some dev services
+date:       2022-12-28
+tags:       work
+identifier: 20221228T103141
+---------------------------
+
+Business strategy
+
+Product management
+
+Software engineering
+
+UX/UI
+
+QA management
+
+DevOps
+
+Agile
+
+Pros and cons

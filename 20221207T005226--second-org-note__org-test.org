@@ -1,0 +1,6 @@
+#+title:      Second org note
+#+date:       [2022-12-07 Wed 00:52]
+#+filetags:   :org-test:
+#+identifier: 20221207T005226
+
+This is the second denote org note

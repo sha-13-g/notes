@@ -1,0 +1,7 @@
+title:      denote first
+date:       2022-12-07
+tags:       denote  test
+identifier: 20221207T005039
+---------------------------
+
+This is a test for denote

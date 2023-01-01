@@ -1,0 +1,7 @@
+title:      quality assurance
+date:       2022-12-28
+tags:       software
+identifier: 20221228T102556
+---------------------------
+
+What is quality assurance?

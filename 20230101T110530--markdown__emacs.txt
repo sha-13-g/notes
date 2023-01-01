@@ -1,0 +1,7 @@
+title:      I need to configure markdown
+date:       2023-01-01
+tags:       emacs
+identifier: 20230101T110530
+---------------------------
+
+Put some time to configure markdown with emacs.

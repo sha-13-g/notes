@@ -1,0 +1,6 @@
+#+title:      This is the first note with org mode
+#+date:       [2022-12-28 Wed 19:26]
+#+filetags:   :org-test:
+#+identifier: 20221228T192618
+
+This a org test

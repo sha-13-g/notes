@@ -1,0 +1,6 @@
+#+title:      First note
+#+date:       [2022-12-06 Tue 23:57]
+#+filetags:   :emacs:
+#+identifier: 20221206T235708
+
+This is the first note

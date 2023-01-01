@@ -1,0 +1,11 @@
+title:      development management
+date:       2022-12-28
+tags:       software
+identifier: 20221228T101520
+---------------------------
+
+I need to learn these developmement methodologies:
+ - waterfall
+ - Agile
+ - Scrum
+ - Kanban  

@@ -1,0 +1,6 @@
+title:      some note
+date:       2022-12-28
+tags:       test
+identifier: 20221228T192227
+---------------------------
+This is the first note with emacs on terminal 

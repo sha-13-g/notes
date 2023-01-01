@@ -1,0 +1,13 @@
+title:      what is my entreprise
+date:       2022-12-28
+tags:       work
+identifier: 20221228T102743
+---------------------------
+
+For example, if a web application might be in your future, ask potential partners about past application development projects, web design experience, whether they work in both iOS and android, and what their UI/UX background is. Can this software development agency grow with the brand to offer new and innovative software solutions?
+
+How will this software development team assist in building better API security into your products and services? Can they help you achieve business goals safely and securely? If you need bespoke products, do they have case studies that demonstrate their versatility as a custom software development company?
+
+Can your in-house team handle the complexities of developing with user experience in mind? Will you find yourself outsourcing extra support if you don't have a scalable agency on this project?
+
+And finally, if you're in fintech, blockchain, healthcare, or other verticals that are heavily regulated, you'll need to ensure that your software development agency can help you meet regulatory requirements and stay compliant with applicable laws.

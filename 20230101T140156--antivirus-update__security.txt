@@ -1,0 +1,9 @@
+title:      antivirus update
+date:       2023-01-01
+tags:       security
+identifier: 20230101T140156
+---------------------------
+
+Run freshclam for update the clamav virus definition.
+Enable/Start clamav-freshclam.service to keep virus definitions up to date.
+The service is called clamav-daemon.service. Start it and enable it to start at boot.

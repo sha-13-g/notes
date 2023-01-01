@@ -1,0 +1,7 @@
+title:      note with date
+date:       2022-12-07
+tags:       date-test
+identifier: 20221207T005437
+---------------------------
+
+This the first note to test denote-date
